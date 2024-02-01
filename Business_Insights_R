@@ -1,10 +1,7 @@
 #' Author: Fernando Gamboa 
 #' Title: A1 
 #' Purpose: Load geospatial data and visualize it
-#' Author: Ted Kwartler
-#' License: GPL>=3
 #' Date: Mar 20, 2023
-#'
 
 
 ## Set the working directory
